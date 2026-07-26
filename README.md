@@ -1,3 +1,1 @@
-# batch18a_gitlearning
-
-Working for V2.0
+# Batch18a Git Learning Task
